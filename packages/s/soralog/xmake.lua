@@ -3,8 +3,7 @@ package("soralog")
     set_description("Fast and flexible C++ logger with low-overhead logging calls")
     set_license("Apache-2.0")
 
-    add_urls("https://github.com/xDimon/soralog/archive/refs/tags/$(version).tar.gz",
-             "https://github.com/xDimon/soralog.git")
+    add_urls("https://github.com/xDimon/soralog/archive/46301b9481d33f138aa7bb181bf85ea21a155a58.tar.gz")
 
     add_versions("v0.4.0", "37189982fc74d4586fd88cbf98a530dde0fd72a7cccea2e0419833b34a211770")
 
